@@ -1,3 +1,14 @@
+Still confused on what this code does?
+You will create a cypher or a question that has an answer.
+After publishing the web page the users can enter their answers in a text box after reading your question or cypher.
+If they answered correctly, A msg will be sent to your email alarming you that your msg has been decyphered.
+After that, a msg will be shown to the user regarding their correct answer (It can be anything maybe congrats them?).
+
+why would i use this?
+maybe you want to send a secret msg to someone and only that person knows how to crack the code.
+
+DEPLOYING DETAILS:
+
 You must create a .env file with the following info:
 .env content:
 ****************************************
