@@ -2,7 +2,9 @@ You must create a .env file with the following info:
 .env content:
 ****************************************
 key = "animal crossing"
+
 msg = "Congrats u cracked the cypher"
+
 PASS_KEY = '*password key for your email you can google how to get it it looks like this:* zfkjsdbhefuesfb' 
 
 ****************************************
