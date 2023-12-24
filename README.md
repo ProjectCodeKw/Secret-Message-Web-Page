@@ -1,7 +1,7 @@
 You must create a .env file with the following info:
 .env content:
 ****************************************
-key = "animal crossing"
+key = "*your cypher answer:* animal crossing"
 
 msg = "Congrats u cracked the cypher"
 
